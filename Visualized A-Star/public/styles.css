@@ -1,0 +1,84 @@
+
+
+body {
+    background: rgb(49, 49, 49);
+    color: white;
+}
+
+section {
+    text-align: center;
+}
+
+.title-text {
+    font-size: 4rem;
+    color: white;
+}
+
+#top {
+    padding: 0 2%;
+}
+
+button {
+    margin: 2%;
+}
+
+.run-btn {
+    background-color: #3a78ff;
+}
+
+input {
+    text-align: center;
+}
+
+.add {
+    font-weight: 500;
+    color: #3a78ff;
+}
+
+img {
+    height: 250px;
+    border-radius: 10%;
+}
+
+.title-img {
+    padding-bottom: 1%;
+}
+
+.title-link {
+    color: #3a78ff;
+}
+
+.button-div {
+    padding-top: 2%;
+}
+
+.controls-text {
+    font-size: 2rem;
+}
+
+hr {
+    background-color: white;
+    width: 96%;
+}
+
+a {
+    color: white;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+td {
+    color: black;
+    background-color: rgb(84, 199, 94);
+    font-size: 5px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color: white;
+}
